@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="switchMode">Draw</string>
+    <string name="switch_draw_replace">Draw / Replace</string>
+    <string name="random_color">Random color</string>
+    <string name="dragMode">Drag Mode</string>
+    <string name="randomMode">Random Mode</string>
+</resources>
